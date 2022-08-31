@@ -153,7 +153,7 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-  #terminal-content {
+  #terminalContent {
     width: 95%;
   }
   .container {
@@ -166,12 +166,6 @@ a:hover {
 }
 
 @media (max-width: 400px) {
-  #terminal-content {
-    width: 95%;
-  }
-  .container {
-    width: 100%;
-  }
   #terminal-title {
     font-size: 10px;
   }
